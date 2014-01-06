@@ -1,0 +1,10 @@
+{
+  "main": "./lib/main.js",
+  "name": "vm-compatibility-layer",
+  "description": "Make vm module in node v0.11.x support obsolete APIs of node v0.10.x",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atom/node-vm-compatibility-layer.git"
+  }
+}
